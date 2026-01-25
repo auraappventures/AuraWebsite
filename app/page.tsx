@@ -12,7 +12,7 @@ import { ApplicationForm } from "./components/sections/ApplicationForm";
 
 export default function Home() {
   return (
-    <main className="min-h-screen bg-white dark:bg-black transition-colors">
+    <main className="min-h-screen bg-white dark:bg-black transition-colors overflow-x-hidden w-full">
       <Header />
       <Hero />
       <CaseStudy />

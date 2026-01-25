@@ -58,7 +58,7 @@ export const ApplicationForm = () => {
   };
 
   const submittedContent = (
-    <section id="apply" className="py-16 sm:py-20 md:py-24 bg-white dark:bg-black transition-colors">
+    <section id="apply" className="py-16 sm:py-20 md:py-24 bg-white dark:bg-black transition-colors overflow-x-hidden">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <motion.div
           initial={{ opacity: 0, scale: 0.9 }}
@@ -77,7 +77,7 @@ export const ApplicationForm = () => {
   );
 
   const formContent = (
-    <section id="apply" className="py-16 sm:py-20 md:py-24 bg-white dark:bg-black transition-colors">
+    <section id="apply" className="py-16 sm:py-20 md:py-24 bg-white dark:bg-black transition-colors overflow-x-hidden">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="max-w-7xl mx-auto">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8 sm:gap-10 md:gap-12 items-start">

@@ -68,7 +68,7 @@ export const Testimonials = () => {
   };
 
   return (
-    <section className="py-16 sm:py-20 md:py-24 bg-white dark:bg-black transition-colors">
+    <section className="py-16 sm:py-20 md:py-24 bg-white dark:bg-black transition-colors overflow-x-hidden">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <motion.div
           initial={{ opacity: 0, y: 20 }}
@@ -80,7 +80,7 @@ export const Testimonials = () => {
           <h2 className="text-xl md:text-2xl font-medium text-black dark:text-white mb-6 sm:mb-8">Testimonials</h2>
         </motion.div>
 
-        <div className="max-w-4xl mx-auto">
+        <div className="max-w-4xl mx-auto overflow-hidden">
           <div 
             className="relative"
             onTouchStart={onTouchStart}

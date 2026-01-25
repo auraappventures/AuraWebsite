@@ -20,7 +20,7 @@ const smoothScrollTo = (elementId: string) => {
 
 export const Hero = () => {
   return (
-    <AuroraBackground className="min-h-screen">
+    <AuroraBackground className="min-h-screen overflow-x-hidden">
       <div className="relative z-10 container mx-auto px-4 sm:px-6 lg:px-8 text-center py-20 sm:py-24">
         <motion.div
           initial={{ opacity: 0, y: 20 }}
