@@ -41,7 +41,7 @@ export default function TermsOfService() {
                 1. Acceptance of Terms
               </h2>
               <p className="text-sm sm:text-base text-neutral-700 dark:text-neutral-300 leading-relaxed">
-                By accessing and using the services provided by Aura App Ventures ("we," "us," or "our"), you accept and agree to be bound by the terms and provision of this agreement.
+                By accessing and using the services provided by Aura App Ventures (&quot;we,&quot; &quot;us,&quot; or &quot;our&quot;), you accept and agree to be bound by the terms and provision of this agreement.
               </p>
             </section>
 
@@ -59,7 +59,7 @@ export default function TermsOfService() {
                 3. Use License
               </h2>
               <p className="text-sm sm:text-base text-neutral-700 dark:text-neutral-300 leading-relaxed mb-4">
-                Permission is granted to temporarily access the materials on Aura App Ventures' website for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:
+                Permission is granted to temporarily access the materials on Aura App Ventures&apos; website for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:
               </p>
               <ul className="list-disc list-inside space-y-2 text-sm sm:text-base text-neutral-700 dark:text-neutral-300 ml-4">
                 <li>Modify or copy the materials</li>
@@ -74,7 +74,7 @@ export default function TermsOfService() {
                 4. Disclaimer
               </h2>
               <p className="text-sm sm:text-base text-neutral-700 dark:text-neutral-300 leading-relaxed">
-                The materials on Aura App Ventures' website are provided on an 'as is' basis. Aura App Ventures makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.
+                The materials on Aura App Ventures&apos; website are provided on an &apos;as is&apos; basis. Aura App Ventures makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.
               </p>
             </section>
 
@@ -83,7 +83,7 @@ export default function TermsOfService() {
                 5. Limitations
               </h2>
               <p className="text-sm sm:text-base text-neutral-700 dark:text-neutral-300 leading-relaxed">
-                In no event shall Aura App Ventures or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the materials on Aura App Ventures' website, even if Aura App Ventures or an authorized representative has been notified orally or in writing of the possibility of such damage.
+                In no event shall Aura App Ventures or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the materials on Aura App Ventures&apos; website, even if Aura App Ventures or an authorized representative has been notified orally or in writing of the possibility of such damage.
               </p>
             </section>
 

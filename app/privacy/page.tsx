@@ -41,7 +41,7 @@ export default function PrivacyPolicy() {
                 1. Introduction
               </h2>
               <p className="text-sm sm:text-base text-neutral-700 dark:text-neutral-300 leading-relaxed mb-4">
-                Aura App Ventures ("we," "us," or "our") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website or use our services.
+                Aura App Ventures (&quot;we,&quot; &quot;us,&quot; or &quot;our&quot;) is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website or use our services.
               </p>
             </section>
 
@@ -128,7 +128,7 @@ export default function PrivacyPolicy() {
                 7. Changes to This Privacy Policy
               </h2>
               <p className="text-sm sm:text-base text-neutral-700 dark:text-neutral-300 leading-relaxed">
-                We may update this Privacy Policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal, or regulatory reasons. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last updated" date.
+                We may update this Privacy Policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal, or regulatory reasons. We will notify you of any changes by posting the new Privacy Policy on this page and updating the &quot;Last updated&quot; date.
               </p>
             </section>
 
