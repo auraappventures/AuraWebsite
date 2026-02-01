@@ -5,26 +5,13 @@ import { GlareCard } from "@/app/components/ui/glare-card";
 
 const testimonials = [
   {
-    quote: "BURD handled everything. I just focused on my content and they built me a business making six figures monthly. Best decision I ever made.",
+    quote: "",
     name: "IP",
-    role: "Influencer Partner",
-    category: "Finance Creator",
-    downloads: "500K+ Downloads",
-  },
-  {
-    quote: "The process was seamless. From the initial call to app launch, everything was handled professionally. My app is now generating passive income while I focus on what I love.",
-    name: "CC",
-    role: "Influencer Partner",
-    category: "Lifestyle Creator",
-    downloads: "300K+ Downloads",
-  },
-  {
-    quote: "I was skeptical at first, but BURD delivered beyond expectations. The app quality is top-notch and the revenue share model is fair. Highly recommend!",
-    name: "TC",
-    role: "Influencer Partner",
-    category: "Tech Creator",
-    downloads: "200K+ Downloads",
-  },
+    role: "Va",
+    category: "Maja",
+    downloads: "2K+ Downloads",
+  }
+
 ];
 
 export const Testimonials = () => {

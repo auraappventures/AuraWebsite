@@ -47,7 +47,7 @@ export const Footer = () => {
             <ul className="space-y-2 text-xs sm:text-sm">
               <li>
                 <Link
-                  href="#refer"
+                  href="/refer"
                   className="text-neutral-600 dark:text-neutral-400 hover:text-black dark:hover:text-white transition-colors"
                 >
                   Refer & Earn
@@ -69,7 +69,7 @@ export const Footer = () => {
             <ul className="space-y-2 text-xs sm:text-sm">
               <li>
                 <Link
-                  href="#"
+                  href="/privacy"
                   className="text-neutral-600 dark:text-neutral-400 hover:text-black dark:hover:text-white transition-colors"
                 >
                   Privacy Policy
@@ -77,7 +77,7 @@ export const Footer = () => {
               </li>
               <li>
                 <Link
-                  href="#"
+                  href="/terms"
                   className="text-neutral-600 dark:text-neutral-400 hover:text-black dark:hover:text-white transition-colors"
                 >
                   Terms of Service

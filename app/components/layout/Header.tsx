@@ -90,7 +90,7 @@ export const Header = () => {
               onClick={(e) => handleLinkClick(e, "#apply")}
               className="px-3 sm:px-4 py-1.5 sm:py-2 bg-blue-500 text-white rounded-lg font-medium text-sm lg:text-base hover:opacity-90 transition-opacity cursor-pointer"
             >
-              Contact
+              Book a Call
             </a>
           </div>
 
@@ -169,7 +169,7 @@ export const Header = () => {
                   onClick={(e) => handleLinkClick(e, "#apply")}
                   className="block px-4 py-2 bg-blue-500 text-white rounded-lg font-medium text-center text-base cursor-pointer"
                 >
-                  Contact
+                  Book a Call
                 </a>
               </div>
             </motion.div>

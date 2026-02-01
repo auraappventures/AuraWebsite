@@ -15,16 +15,16 @@ export const ReferEarn = () => {
                 whileInView={{ opacity: 1, y: 0 }}
                 viewport={{ once: true }}
                 transition={{ duration: 0.6 }}
-                className="p-6 sm:p-8 md:p-10 text-center"
+                className="p-6 sm:p-8 md:p-10 lg:p-12 text-center"
               >
-                <h2 className="text-xl sm:text-xl md:text-2xl font-medium mb-3 sm:mb-4 text-black dark:text-white">
+                <h2 className="text-xl sm:text-2xl md:text-3xl lg:text-4xl font-medium mb-4 sm:mb-6 text-black dark:text-white leading-tight">
                   Know an influencer?
                 </h2>
-                <p className="text-base sm:text-base md:text-lg text-neutral-600 dark:text-neutral-400 mb-5 sm:mb-6 md:mb-8">
+                <p className="text-sm sm:text-base md:text-lg text-neutral-600 dark:text-neutral-400 mb-6 sm:mb-8 md:mb-10 leading-relaxed">
                   Earn $1,000 for every successful referral
                 </p>
                 <Link
-                  href="#apply"
+                  href="/refer"
                   className="inline-block px-6 sm:px-8 py-3 sm:py-4 bg-blue-500 text-black rounded-lg font-semibold text-sm sm:text-base md:text-lg hover:bg-blue-400 hover:scale-105 transition-all duration-300 shadow-lg shadow-blue-500/20"
                 >
                   Refer & Earn

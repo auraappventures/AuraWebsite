@@ -7,6 +7,10 @@ export const metadata: Metadata = {
   description: "We partner with top influencers to build premium mobile apps—completely free. You focus on your audience. We handle design, development, App Store publishing, and everything in between.",
   keywords: ["mobile app development", "influencer apps", "app development", "equity partnership", "free app development"],
   authors: [{ name: "Aura App Ventures" }],
+  icons: {
+    icon: "/favicon.png",
+    apple: "/favicon.png",
+  },
   openGraph: {
     title: "Aura App Ventures - We build your app. You keep the equity.",
     description: "We partner with top influencers to build premium mobile apps—completely free.",

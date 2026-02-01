@@ -4,9 +4,7 @@ import Image from "next/image";
 
 const stats = [
   { icon: "⏱", value: "2 weeks", label: "first $" },
-  { icon: "⬇", value: "160K+", label: "downloads" },
-  { icon: "$", value: "$300K+", label: "lifetime revenue" },
-  { icon: "📈", value: "$100K/mo", label: "in only 4 months" },
+  { icon: "⬇", value: "2000+", label: "downloads" },
 ];
 
 const processSteps = [
@@ -61,16 +59,16 @@ export const CaseStudy = () => {
 
               {/* Main Headline */}
               <h2 className="text-4xl sm:text-5xl md:text-6xl font-bold text-black dark:text-white mb-2 leading-tight">
-                160K+ downloads.
+                2K+ downloads.
               </h2>
               <h2 className="text-4xl sm:text-5xl md:text-6xl font-bold text-blue-500 mb-6 leading-tight">
-                $100K/month.
+                $500+/month.
               </h2>
 
               {/* Description */}
               <p className="text-neutral-600 dark:text-neutral-400 text-base md:text-lg mb-8 leading-relaxed max-w-lg">
-                Claimshark wanted to help users claim settlement money. We came up with{" "}
-                <span className="text-black dark:text-white font-medium">Claimshark</span>, designed it, built it, and launched it—all in two weeks. Today it has 160K+ users and generates six figures monthly while helping users claim their settlements.
+               We came up with{" "}
+                <span className="text-black dark:text-white font-medium">Claimshark</span>, designed it, built it, and launched it all in two weeks. Today it has 2K+ users and generates $500+ monthly while helping users claim their settlements.
               </p>
 
               {/* Our Process */}
