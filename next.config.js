@@ -13,6 +13,8 @@ const nextConfig = {
   eslint: {
     ignoreDuringBuilds: false,
   },
+  // Explicitly set trailing slash for Vercel
+  trailingSlash: false,
 }
 
 module.exports = nextConfig
